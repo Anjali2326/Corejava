@@ -5,8 +5,7 @@ public class EndsWith {
 		
 		String s="Hindustan";
 		
-		
-		char[] str;
+		boolean str=s.endsWith("n");
 		System.out.println(str);
 		
 		System.out.println(s.endsWith("t"));
